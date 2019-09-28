@@ -13,6 +13,11 @@ Colonoscopy pathology examination can find cells of early-stage colon tumor from
 ## METHODOLGY:
 As, the challenge is not yet over, we could not disclose our methodology but we have updated the docker image and also uploaded some test images along with the ground-truth which could be used for testing of the docker.
 
+The link for docker is:
+
+https://drive.google.com/open?id=1oX0mqqIu4eVvp10JYuq8EttkoF_iXWZl
+
+
 Once, the challenge gets over we will upload all the codes which can be used for training as well as testing on Colonoscopy images.
 
 Till, then for you can test the algorithms on your Digestpath dataset by following the below mentioned procedure:
