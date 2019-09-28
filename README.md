@@ -17,6 +17,7 @@ Once, the challenge gets over we will upload all the codes which can be used for
 
 Till, then for you can test the algorithms on your Digestpath dataset by following the below mentioned procedure:
 `docker load --input 2016bec062_task2.tar`
+
 For running the docker:
 `docker run -dit --runtime nvidia --name 2016bec062_task2_container -v /home/romil/digestpath/TestData:/input:ro -v /output digestpath:2016bec062_task2`
 
