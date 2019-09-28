@@ -16,15 +16,18 @@ As, the challenge is not yet over, we could not disclose our methodology but we 
 Once, the challenge gets over we will upload all the codes which can be used for training as well as testing on Colonoscopy images.
 
 Till, then for you can test the algorithms on your Digestpath dataset by following the below mentioned procedure:
+
 `docker load --input 2016bec062_task2.tar`
 
 For running the docker:
+
 `docker run -dit --runtime nvidia --name 2016bec062_task2_container -v /home/romil/digestpath/TestData:/input:ro -v /output digestpath:2016bec062_task2`
 
 For Execution of the docker:
 `docker exec -it 2016bec062_task2_container python /digestpath/Segmentation.py`
 
 After that copy and move the results from Docker container to local disk:
+
 `docker cp 2016bec062_task2_container:/output Result`
 
 `mv Result/output/* Result/`
