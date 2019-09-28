@@ -15,7 +15,7 @@ As, the challenge is not yet over, we could not disclose our methodology but we 
 
 The link for docker is:
 
-https://drive.google.com/open?id=1oX0mqqIu4eVvp10JYuq8EttkoF_iXWZl
+https://drive.google.com/file/d/1EJWc63fdyV5FT6hdVNwKUHFx7mhiW17s/view?usp=sharing
 
 
 Once, the challenge gets over we will upload all the codes which can be used for training as well as testing on Colonoscopy images.
