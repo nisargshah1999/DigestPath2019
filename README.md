@@ -16,7 +16,7 @@ As, the challenge is not yet over, we could not disclose our methodology but we 
 Once, the challenge gets over we will upload all the codes which can be used for training as well as testing on Colonoscopy images.
 
 Till, then for you can test the algorithms on your Digestpath dataset by following the below mentioned procedure:
-''
+`docker load --input 2016bec062_task2.tar`
 
 ## Citation
 Li, J., Yang, S., Huang, X., Da, Q., Yang, X., Hu, Z., ... & Li, H. (2019, June). Signet Ring Cell Detection with a Semi-supervised Learning Framework. In International Conference on Information Processing in Medical Imaging (pp. 842-854). Springer, Cham. (https://arxiv.org/abs/1907.03954)
