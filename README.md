@@ -16,7 +16,6 @@ The link for docker is:
 
 https://drive.google.com/file/d/1EJWc63fdyV5FT6hdVNwKUHFx7mhiW17s/view?usp=sharing
 
-
 Once, the challenge gets over we will upload all the codes which can be used for training as well as testing on Colonoscopy images.
 
 Till, then for you can test the algorithms on your Digestpath dataset by following the below mentioned procedure:
