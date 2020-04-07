@@ -2,6 +2,7 @@
 ## Colonoscopy tissue segmentation and classification
 The goal of the task was to evaluate automatic algorithms colonoscopy tissue screening from digestive system pathological images. This is the first challenge and first public dataset on colonoscopy tissue screening. Release of the large quantity of expert-level annotations on digestive-system pathological images has substantially advance the research on automatic pathological object detection and lesion segmentation. 
 
+
 A total of 450 patients' 750 tissue slices of an average size of 3000x3000 were provided as the training set. Also another 150 patients' 250 tissues were provided as the testing set.
 
 ## Dataset Description:
