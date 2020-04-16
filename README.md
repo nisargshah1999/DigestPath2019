@@ -13,7 +13,6 @@ Colonoscopy pathology examination can find cells of early-stage colon tumor from
 As, the challenge is not yet over, we could not disclose our methodology but we have updated the docker image and also uploaded some test images along with the ground-truth which could be used for testing of the docker.
 
 The link for docker is:
-
 https://drive.google.com/file/d/1EJWc63fdyV5FT6hdVNwKUHFx7mhiW17s/view?usp=sharing
 
 Once, the challenge gets over we will upload all the codes which can be used for training as well as testing on Colonoscopy images.
