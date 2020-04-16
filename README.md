@@ -4,6 +4,7 @@ The goal of the task was to evaluate automatic algorithms colonoscopy tissue scr
 
 A total of 450 patients' 750 tissue slices of an average size of 3000x3000 were provided as the training set. Also another 150 patients' 250 tissues were provided as the testing set.
 
+
 ## Dataset Description:
 (Directly from https://digestpath2019.grand-challenge.org/Dataset/)
 
