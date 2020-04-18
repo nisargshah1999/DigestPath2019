@@ -42,5 +42,3 @@ The results would contain prediction folder and .csv file predicting the accurac
 ## Citation
 Li, J., Yang, S., Huang, X., Da, Q., Yang, X., Hu, Z., ... & Li, H. (2019, June). Signet Ring Cell Detection with a Semi-supervised Learning Framework. In International Conference on Information Processing in Medical Imaging (pp. 842-854). Springer, Cham. (https://arxiv.org/abs/1907.03954)
 
-
-
