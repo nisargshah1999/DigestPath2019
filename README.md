@@ -23,7 +23,6 @@ Till, then for you can test the algorithms on your Digestpath dataset by followi
 
 For running the docker:
 
-
 `docker run -dit --runtime nvidia --name 2016bec062_task2_container -v /home/digestpath/TestData:/input:ro -v /output digestpath:2016bec062_task2`
 
 For Execution of the docker:
